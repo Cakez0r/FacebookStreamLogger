@@ -1,0 +1,3 @@
+This project was thrown together for a friend who wanted a proof of concept. It monitors a given facebook feed for facebook applications with READ_STREAM access (E.G. The setup that I tested was to have a facebook account with a bunch of friends, create an empty facebook application and give it READ_STREAM privileges for my account, then I could scrape that accounts facebook feed). I'm not really using it, so I figured I'd share up the code. Sorry for the lack of comments and instructions. Maybe some other day...
+
+When you first run, it will create a settings.xml in the same directory as the .exe. You must fill this out first.
